@@ -68,4 +68,3 @@ This project focuses on **data preprocessing and model training** using the **Ad
 - 📄 **`Data_Preparation_Report.docx`** – Detailed report on preprocessing techniques, experiments, and results.
 - 📝 **`Adult_income.ipynb`** – Jupyter Notebook with code for preprocessing and model training.
 
----
